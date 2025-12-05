@@ -1,5 +1,0 @@
-pandas
-numpy
-duckdb
-matplotlib
-jupyter
